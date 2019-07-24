@@ -9,8 +9,6 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-//Author - Mohamed Shimran
-//Blog - http://www.ultimateprogrammingtutorials.info
 
 class TinyURL {
     public static void main(String args[]) {
